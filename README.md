@@ -12,7 +12,7 @@ I made that as well, and intend to leave it running there in perpetuity (or as l
 
 The Accept-Language header as defined by http://www.w3.org/Protocols/rfc2616/rfc2616-sec3.html#sec3.10 uses an ISO 639-1 language code. The plugin converts this to an English Language description of the Language (e.g. 'Norwegian'), but also returns the complete value of the header if you need to do further processing.
 
-Example usage:
+Example usage: [http://codepen.io/mikethedj4/pen/QEkJjw?editors=0110](http://codepen.io/mikethedj4/pen/QEkJjw?editors=0110)
 
 ```
 <script>
